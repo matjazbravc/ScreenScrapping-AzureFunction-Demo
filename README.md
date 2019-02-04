@@ -33,10 +33,10 @@ P.S. More about how to test Azure functions locally you can read [here](https://
 Second, if you use development storage you have to setup Azure Storage Emulator. See [Use the Azure storage emulator for development and testing](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator) and [Configuring and Using the Storage Emulator with Visual Studio](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-emulator-using).
 
 Third, build solution and run it with local Azure Functions runtime: 
-![](https://github.com/mabravc/ScreenScrappingAzureFunctionDemo/blob/master/res/function_local_runtime.jpg)
+![](https://github.com/matjazbravc/ScreenScrapping-AzureFunction-Demo/blob/master/res/function_local_runtime.jpg)
 
 Finally test it with [Postman](https://getpostman.com):
-![](https://github.com/mabravc/ScreenScrappingAzureFunctionDemo/blob/master/res/postman_function_test.jpg)
+![](https://github.com/matjazbravc/ScreenScrapping-AzureFunction-Demo/blob/master/res/postman_function_test.jpg)
 
 Enjoy!
 
