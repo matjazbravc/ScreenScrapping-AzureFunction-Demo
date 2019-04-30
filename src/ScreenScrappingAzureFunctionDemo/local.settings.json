@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "StorageAccount.ConnectionString": "UseDevelopmentStorage=true",
+    "Url.Address": "http://dontcodetired.com/blog/archive"
+  }
+}
